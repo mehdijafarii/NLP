@@ -6,9 +6,6 @@ __pycache__/
 # C extensions
 *.so
 
-item.py
-NLP_Assignment_R2-4.ipynb
-
 # Distribution / packaging
 .Python
 build/
@@ -93,7 +90,6 @@ celerybeat-schedule
 .env
 .venv
 env/
-venv/
 winvenv/
 ENV/
 env.bak/
